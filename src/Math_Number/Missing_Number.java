@@ -26,6 +26,6 @@ public class Missing_Number {
         }
 
         return nums[nums.length-1] +1;
-    
+
     }
 }

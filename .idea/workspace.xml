@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18590691-fde8-4575-81cf-3219c7c58433" name="Default" comment="" />
+    <list default="true" id="18590691-fde8-4575-81cf-3219c7c58433" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Math_Number/Missing_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Math_Number/Missing_Number.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,11 +63,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Missing_Number.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Missing_Number.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Math_Number/Missing_Number.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="90" lean-forward="true" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="90" />
+            <state relative-caret-position="420">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Count_Primes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Math_Number/Count_Primes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -114,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/Linked_List/Remove_Nth_Node_From_End_of_List.java" />
         <option value="$PROJECT_DIR$/src/Linked_List/Linked_List_Cycle.java" />
         <option value="$PROJECT_DIR$/src/Math_Number/Missing_Number.java" />
+        <option value="$PROJECT_DIR$/src/Math_Number/Count_Primes.java" />
       </list>
     </option>
   </component>
@@ -173,14 +185,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Missing_Number">
-    <configuration name="Find_Kth_Node_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview_practice.Find_Kth_Node_Linked_List" />
+  <component name="RunManager" selected="Application.Count_Primes">
+    <configuration name="Count_Primes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math_Number.Count_Primes" />
       <module name="Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview_practice.*" />
+          <option name="PATTERN" value="Math_Number.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,19 +283,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Find_Kth_Node_Linked_List" />
       <item itemvalue="Application.Single_Number" />
       <item itemvalue="Application.MergeTwoSortedLists" />
       <item itemvalue="Application.Reverse_Linked_List" />
       <item itemvalue="Application.Missing_Number" />
+      <item itemvalue="Application.Count_Primes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Count_Primes" />
         <item itemvalue="Application.Missing_Number" />
         <item itemvalue="Application.Reverse_Linked_List" />
         <item itemvalue="Application.MergeTwoSortedLists" />
         <item itemvalue="Application.Single_Number" />
-        <item itemvalue="Application.Find_Kth_Node_Linked_List" />
       </list>
     </recent_temporary>
   </component>
@@ -306,14 +318,14 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3278302" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2818396" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2806604" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -323,7 +335,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3207547" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3207547" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -347,17 +359,10 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="39" />
+      <option name="time" value="40" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Linked_List/MergeTwoSortedLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -721,8 +726,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Math_Number/Missing_Number.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="90" lean-forward="true" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="90" />
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math_Number/Count_Primes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
         </state>
       </provider>
     </entry>
