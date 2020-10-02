@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18590691-fde8-4575-81cf-3219c7c58433" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Linked_List/Remove_Nth_Node_From_End_of_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linked_List/Remove_Nth_Node_From_End_of_List.java" afterDir="false" />
-    </list>
+    <list default="true" id="18590691-fde8-4575-81cf-3219c7c58433" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,11 +52,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Linked_List_Cycle.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Linked_List_Cycle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Linked_List/Linked_List_Cycle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="180">
+              <caret line="12" column="89" selection-start-line="12" selection-start-column="89" selection-end-line="12" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Missing_Number.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Math_Number/Missing_Number.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="90" lean-forward="true" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="90" />
             </state>
           </provider>
         </entry>
@@ -106,10 +113,11 @@
         <option value="$PROJECT_DIR$/src/Linked_List/Reverse_Linked_List.java" />
         <option value="$PROJECT_DIR$/src/Linked_List/Remove_Nth_Node_From_End_of_List.java" />
         <option value="$PROJECT_DIR$/src/Linked_List/Linked_List_Cycle.java" />
+        <option value="$PROJECT_DIR$/src/Math_Number/Missing_Number.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="804" />
@@ -138,7 +146,7 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Linked_List" type="462c0819:PsiDirectoryNode" />
+              <item name="Math_Number" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Reverse_Linked_List">
+  <component name="RunManager" selected="Application.Missing_Number">
     <configuration name="Find_Kth_Node_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interview_practice.Find_Kth_Node_Linked_List" />
       <module name="Practice" />
@@ -188,6 +196,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Missing_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math_Number.Missing_Number" />
+      <module name="Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Math_Number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Reverse_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Linked_List.Reverse_Linked_List" />
       <module name="Practice" />
@@ -206,17 +225,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Two_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview_practice.Two_Sum" />
-      <module name="Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,19 +271,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Two_Sum" />
       <item itemvalue="Application.Find_Kth_Node_Linked_List" />
       <item itemvalue="Application.Single_Number" />
       <item itemvalue="Application.MergeTwoSortedLists" />
       <item itemvalue="Application.Reverse_Linked_List" />
+      <item itemvalue="Application.Missing_Number" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Missing_Number" />
         <item itemvalue="Application.Reverse_Linked_List" />
         <item itemvalue="Application.MergeTwoSortedLists" />
         <item itemvalue="Application.Single_Number" />
         <item itemvalue="Application.Find_Kth_Node_Linked_List" />
-        <item itemvalue="Application.Two_Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +301,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="804" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -305,17 +313,17 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2818396" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17083333" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17083333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3219178" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3207547" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -339,17 +347,10 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="36" />
+      <option name="time" value="39" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Math_Number/PlusOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -713,8 +714,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Linked_List/Linked_List_Cycle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="180">
+          <caret line="12" column="89" selection-start-line="12" selection-start-column="89" selection-end-line="12" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math_Number/Missing_Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="90" lean-forward="true" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="90" />
         </state>
       </provider>
     </entry>
