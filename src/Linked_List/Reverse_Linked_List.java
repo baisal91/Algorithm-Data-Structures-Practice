@@ -16,7 +16,7 @@ public class Reverse_Linked_List {
         for (ListNode l: list) {
             System.out.print(l.val);
         }
-        
+
 
     }
 
