@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18590691-fde8-4575-81cf-3219c7c58433" name="Default" comment="" />
+    <list default="true" id="18590691-fde8-4575-81cf-3219c7c58433" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Linked_List/Remove_Nth_Node_From_End_of_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linked_List/Remove_Nth_Node_From_End_of_List.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,11 +45,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Remove_Nth_Node_From_End_of_List.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Remove_Nth_Node_From_End_of_List.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Linked_List/Remove_Nth_Node_From_End_of_List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="270">
+              <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Linked_List_Cycle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Linked_List/Linked_List_Cycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -94,6 +105,7 @@
         <option value="$PROJECT_DIR$/src/Array/RemoveDuplicatesSortedArray.java" />
         <option value="$PROJECT_DIR$/src/Linked_List/Reverse_Linked_List.java" />
         <option value="$PROJECT_DIR$/src/Linked_List/Remove_Nth_Node_From_End_of_List.java" />
+        <option value="$PROJECT_DIR$/src/Linked_List/Linked_List_Cycle.java" />
       </list>
     </option>
   </component>
@@ -331,13 +343,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Array/RemoveDuplicatesSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Math_Number/PlusOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -701,8 +706,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Linked_List/Remove_Nth_Node_From_End_of_List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="270">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Linked_List/Linked_List_Cycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
