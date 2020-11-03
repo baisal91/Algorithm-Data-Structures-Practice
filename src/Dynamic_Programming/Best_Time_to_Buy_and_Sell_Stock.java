@@ -2,7 +2,7 @@ package Dynamic_Programming;
 
 
 /*
-    We can buy and sell only one time; only one transaction is allowed. 
+    We can buy and sell only one time; only one transaction is allowed.
  */
 public class Best_Time_to_Buy_and_Sell_Stock {
 
