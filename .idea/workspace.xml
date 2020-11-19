@@ -216,7 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Permutation">
+  <component name="RunManager" selected="Application.RotateArray">
     <configuration name="Find_First_and_Last_Position_of_Element_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Find_First_and_Last_Position_of_Element_Sorted_Array" />
       <module name="Practice" />
@@ -227,11 +227,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.LengthOfLongestSubstring" />
-      <module name="Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="Longest_Palindromic_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.Longest_Palindromic_Substring" />
@@ -251,6 +246,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.RotateArray" />
+      <module name="Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,19 +314,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.LengthOfLongestSubstring" />
       <item itemvalue="Application.Search_in_Rotated_Sorted_Array" />
       <item itemvalue="Application.Find_First_and_Last_Position_of_Element_Sorted_Array" />
       <item itemvalue="Application.Longest_Palindromic_Substring" />
       <item itemvalue="Application.Permutation" />
+      <item itemvalue="Application.RotateArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateArray" />
         <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.Longest_Palindromic_Substring" />
         <item itemvalue="Application.Search_in_Rotated_Sorted_Array" />
         <item itemvalue="Application.Find_First_and_Last_Position_of_Element_Sorted_Array" />
-        <item itemvalue="Application.LengthOfLongestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +366,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3207547" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3207547" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
